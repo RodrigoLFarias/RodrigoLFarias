@@ -1,9 +1,12 @@
-## Bem-vindo(a) ao perfil do RodrigoLFarias 😁
+## Bem-vindo(a) ao perfil do rodrigolfarias 😁
 
  <div>
-   <a href="https://github.com/RodrigoLFarias">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api username=RodrigoLFarias&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoLFarias&layout=compact&langs_count=6&theme=tokyonight"/>
+  <a href="https://github.com/rodrigolfarias">
+    <img height="180em"
+      src="https://github-readme-stats.vercel.app/api?username=rodrigolfarias&show_icons=true&theme=tokyonight"/>
+    <img height="180em"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigolfarias&layout=compact&langs_count=6&theme=tokyonight"/>
+  </a>
 </div>
     
 <div style="display: inline_block"><br>
